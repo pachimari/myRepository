@@ -1,0 +1,1 @@
+====    Pachimari## 个人简介***周奕聪/男/2016  学校：杭州电子科技大学  qq：745107189  邮箱：c887811c@163.com   ## 互联网足迹***ID：Pachimari/洋葱  Blog：none  Github:[https://github.com/pachimari](https://github.com/pachimari)##兴趣与方向***C/C++  JAVA  想做游戏开发
